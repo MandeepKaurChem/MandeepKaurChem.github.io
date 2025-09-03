@@ -1,7 +1,7 @@
 .my-pic{
     background-color: #e6edfd;
     width: 40%;
-    background-image: url('Assets/Website info/images/mandeep kaur pic.jpg');
+    background-image: url('../Assets/Website info/images/mandeep kaur pic.jpg');
     opacity: 0.8;
     background-size: cover;
     margin-right: 1.5rem;
@@ -38,4 +38,5 @@
 .contact-area-main-info-para{
     margin-top:1.5rem;
     line-height: 1.5rem;
+
 }
