@@ -1,0 +1,29 @@
+.publications{
+    margin:4rem 8rem;
+}
+.publications-heading{
+    text-align: center;
+    font-size: 2rem;
+    color: #14213D;
+    font-weight: 800;
+}
+.publications-content{
+    margin-top: 2rem;
+    text-align: start;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+}
+.publications-content ol li::marker{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.publi-content-info{
+    padding: 2rem;
+    text-align: start;
+}
+.box-white{
+    background-color: white;
+}
+.box-blue{
+    background-color: #CCD3E3;
+}
