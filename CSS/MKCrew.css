@@ -1,0 +1,76 @@
+.mkcrew-area{
+    /* margin:4rem; */
+}
+.mkcrew-section{
+    /* margin:4rem; */
+    margin-top:5rem;
+}
+.mkcrew-section-students{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+    margin: 3rem auto 0rem auto;
+    justify-content: space-between;
+    margin-left:4rem;
+    margin-right:4rem;
+}
+.mk-crew-section-heading{
+    text-align: start;
+    font-size: 2rem;
+    color: #14213D;
+    font-weight: 800;
+    margin-left:4rem;
+    margin-right:4rem;
+}
+.mkcrew-student-card{
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+    height: 300px;
+    margin-bottom: 3rem;
+    /* align-items: center; */
+}
+.student-card-right div p{
+    text-align: center;
+}
+.student-card-left img{
+    height: 300px;
+    width: 12rem;
+    
+}
+.student-card-right{
+    /* height: 200px; */
+    display: flex;
+    flex-direction: column;
+    width: 10rem;
+    background-color: #CCD3E3;
+    padding: 2rem;
+    align-items: center;
+    justify-content: center;
+    /* padding-bottom: 3rem; */
+    text-align: center;
+}
+.dissertation{
+    font-size: 1.1rem;
+}
+.std-name{
+    text-align: center;
+    margin-bottom: 0.6rem;
+    font-size: 1.5rem;
+    color: #14213D;
+    font-weight: 700;
+}
+.std-deg{
+    text-align: center;
+    margin-bottom: 0.6rem;
+    font-size: 1.1rem;
+    color: #14213D;
+}
+.bor-btm{
+    margin-bottom: 0.4rem;
+}
+.size{
+    text-align: center;
+    font-size: 1.3rem;
+}

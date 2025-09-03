@@ -1,0 +1,20 @@
+/* Poster Section */
+
+.poster-section{
+    margin:4rem 8rem;
+}
+.poster-section-heading{
+    text-align: center;
+    font-size: 2rem;
+    color: #14213D;
+    font-weight: 800;
+}
+.poster-section-content{
+    margin-top: 2rem;
+    text-align: start;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+.poster-section-content ul{
+    padding-left: 1rem;
+} 
